@@ -1,5 +1,6 @@
 # tetris-allegro
 Tetris game using allegro
+
 To run the project in linux run in the project folder:
 ```
 make
